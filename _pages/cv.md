@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Engineering, Tianjin University, 2020
+* M.S. in Mixed Sciences, University of Tokyo, 2022
+* Ph.D in Energy, Environmental, and Chemical Engineering, McKelvey School of Engineering at Washington University in St. Louis, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2019: Research Assistant
+  * Changde Architectural Survey and Design Company of Limited Liability             
+  * Duties included: Responsible for completing house construction drawings through computer software - Auto CAD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Office Assistant
+  * Changde Environment Protection Bureau   
+  * Participated in environmental impact assessment and project environment impact assessment                                                             
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* AutoCAD
+* Language
+  * Mandarin (English)
+  * English (Fluent)
+  * Japanese (Basic)
 
 Publications
 ======
@@ -56,4 +56,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Elite Planning Association of School of Environment Engineering, Chairman, 2018-2019
+* Chinese Young Volunteers Association, Science and Technology Association, 2016-2017
+* Low-carbon Environmental Protection Publicity Team, 2016-2017
+
